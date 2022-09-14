@@ -63,9 +63,9 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "O hellowchat garantiu que o processo de implementação fosse o mais tranquilo possível e a equipe estivesse pronta e funcionando em 24 horas.",
+    name: "Grupo SGT",
+    title: "",
     img: people03,
   },
 ];
