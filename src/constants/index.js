@@ -64,7 +64,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "O hellowchat garantiu que o processo de implementação fosse o mais tranquilo possível e a equipe estivesse pronta e funcionando em 24 horas.",
-    name: "Grupo SGT",
+    name: "Ciec Sistemas",
     title: "",
     img: people03,
   },
