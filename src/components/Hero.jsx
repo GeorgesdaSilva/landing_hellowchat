@@ -46,7 +46,9 @@ const Hero = () => {
       </div>
 
 {      <div className={`ss:hidden ${styles.flexCenter}`}>
+<a href="http://api.whatsapp.com/send?phone=5563991000032&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Como%20podemos%20te%20ajudar%20hoje%3F%20">
         <GetStarted />
+        </a>
       </div>}
     </section>
   );

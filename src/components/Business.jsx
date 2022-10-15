@@ -27,8 +27,9 @@ const Business = () =>  (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Lide com todas as perguntas de seus clientes a partir de uma interface! Conheça o sistema de de tickets do HellowChat.
       </p>
-
+      <a href="http://api.whatsapp.com/send?phone=5563991000032&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Como%20podemos%20te%20ajudar%20hoje%3F%20">
       <Button styles={`mt-10 bg-secondary text-white`} />
+      </a>
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

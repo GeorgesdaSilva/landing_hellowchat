@@ -129,8 +129,9 @@ const Sectiontwo = () => {
               Economize tempo gerenciando todas as mensagens do cliente em um aplicativo.
               </p>
               <div>
-
+              <a href="http://api.whatsapp.com/send?phone=5563991000032&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Como%20podemos%20te%20ajudar%20hoje%3F%20">
         <Button styles={"text-white bg-secondary py-0 leading-0"}/>
+        </a>
               </div>
             </div>
           </div>
