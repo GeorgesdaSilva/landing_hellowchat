@@ -5,7 +5,7 @@ import { AiOutlineCheckCircle } from 'react-icons/ai'
 const included = [
     {
         plano: "Inicial",
-        price: "199",
+        price: "299",
         users: 3,
       arrayValues:  [
           "CRM multiagente",
@@ -19,7 +19,7 @@ const included = [
     },
     {
         plano: "Intermediário",
-        price: "229",
+        price: "329",
         users: 8,
       arrayValues:  [
           "CRM multiagente",
@@ -33,7 +33,7 @@ const included = [
     },
     {
         plano: "Avançado",
-        price: "259",
+        price: "459",
         users: "Sem limites",
       arrayValues:  [
           "CRM multiagente",
