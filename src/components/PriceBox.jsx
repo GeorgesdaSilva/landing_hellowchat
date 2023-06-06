@@ -3,49 +3,89 @@ import styles from "../style";
 import { AiOutlineCheckCircle } from 'react-icons/ai'
 
 const included = [
-    {
-        plano: "Inicial",
-        price: "299",
-        users: 3,
-      arrayValues:  [
-          "CRM multiagente",
-          "Bate-papos gratuitos ilimitados",
-          "Contatos ilimitados",
-          "Histórico de bate-papo ilimitado",
-          "API WhatsApp enviar",
-          "Agendamento",
-          "Suporte do WhatsApp",
-        ],
-    },
-    {
-        plano: "Intermediário",
-        price: "329",
-        users: 8,
-      arrayValues:  [
-          "CRM multiagente",
-          "Bate-papos gratuitos ilimitados",
-          "Contatos ilimitados",
-          "Histórico de bate-papo ilimitado",
-          "API WhatsApp enviar",
-          "Agendamento",
-          "Suporte do WhatsApp",
-        ],
-    },
-    {
-        plano: "Avançado",
-        price: "459",
-        users: "Sem limites",
-      arrayValues:  [
-          "CRM multiagente",
-          "Bate-papos gratuitos ilimitados",
-          "Contatos ilimitados",
-          "Histórico de bate-papo ilimitado",
-          "API WhatsApp enviar",
-          "Agendamento",
-          "Suporte do WhatsApp",
-        ],
-    }
-
+  {
+    plano: "Inicial",
+    price: "197",
+    users: 6,
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
+{
+    plano: "Intermediário",
+    price: "247",
+    users: 11,
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "Histórico de bate-papo ilimitado",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
+{
+    plano: "Avançado",
+    price: "297",
+    users: 21,
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "Histórico de bate-papo ilimitado",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
+{
+    plano: "Avançado Plus",
+    price: "347",
+    users: 31,
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "Histórico de bate-papo ilimitado",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
+{
+    plano: "Premium",
+    price: "397",
+    users: 40,
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "Histórico de bate-papo ilimitado",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
+{
+    plano: "Personalizado",
+    price: "199",
+    users: "19,99 por atendente",
+  arrayValues:  [
+      "CRM multiagente",
+      "Bate-papos gratuitos ilimitados",
+      "Contatos ilimitados",
+      "Histórico de bate-papo ilimitado",
+      "API WhatsApp enviar",
+      "Agendamento",
+      "Suporte do WhatsApp",
+    ],
+},
 ];
 
 const PriceCard = (props) => {
