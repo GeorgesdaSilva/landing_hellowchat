@@ -72,20 +72,6 @@ const included = [
       "Suporte do WhatsApp",
     ],
 },
-{
-    plano: "Personalizado",
-    price: "199",
-    users: "19,99 por atendente",
-  arrayValues:  [
-      "CRM multiagente",
-      "Bate-papos gratuitos ilimitados",
-      "Contatos ilimitados",
-      "Histórico de bate-papo ilimitado",
-      "API WhatsApp enviar",
-      "Agendamento",
-      "Suporte do WhatsApp",
-    ],
-},
 ];
 
 const PriceCard = (props) => {
