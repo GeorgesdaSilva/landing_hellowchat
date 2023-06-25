@@ -5,11 +5,13 @@ import { AiOutlineCheckCircle } from 'react-icons/ai'
 const included = [
   {
     plano: "Inicial",
-    price: "197",
+    price: "247",
     users: 6,
   arrayValues:  [
       "CRM multiagente",
+      "2 número de Whatsapp",
       "Bate-papos gratuitos ilimitados",
+      "Histórico de bate-papo 12 Meses",
       "Contatos ilimitados",
       "API WhatsApp enviar",
       "Agendamento",
@@ -18,10 +20,11 @@ const included = [
 },
 {
     plano: "Intermediário",
-    price: "247",
+    price: "297",
     users: 11,
   arrayValues:  [
       "CRM multiagente",
+      "2 número de Whatsapp",
       "Bate-papos gratuitos ilimitados",
       "Contatos ilimitados",
       "Histórico de bate-papo ilimitado",
@@ -32,10 +35,11 @@ const included = [
 },
 {
     plano: "Avançado",
-    price: "297",
-    users: 21,
+    price: "347",
+    users: 19,
   arrayValues:  [
       "CRM multiagente",
+      "2 número de Whatsapp",
       "Bate-papos gratuitos ilimitados",
       "Contatos ilimitados",
       "Histórico de bate-papo ilimitado",
@@ -46,10 +50,11 @@ const included = [
 },
 {
     plano: "Avançado Plus",
-    price: "347",
-    users: 31,
+    price: "447",
+    users: 29,
   arrayValues:  [
       "CRM multiagente",
+      "2 número de Whatsapp",
       "Bate-papos gratuitos ilimitados",
       "Contatos ilimitados",
       "Histórico de bate-papo ilimitado",
@@ -60,10 +65,11 @@ const included = [
 },
 {
     plano: "Premium",
-    price: "397",
-    users: 40,
+    price: "547",
+    users: 38,
   arrayValues:  [
       "CRM multiagente",
+      "2 número de Whatsapp",
       "Bate-papos gratuitos ilimitados",
       "Contatos ilimitados",
       "Histórico de bate-papo ilimitado",
